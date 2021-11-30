@@ -1,0 +1,15 @@
+body{
+    background:#618BD9;
+    color:white;
+    font-family:Georgia;
+}
+
+ul{
+    list-style-position: inside;
+    text-align: center;
+    padding: 2px;
+}
+
+h5{
+    color:#faba0a;
+}
